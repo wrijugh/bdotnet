@@ -7,6 +7,20 @@
 
 ![](Arch.png)
 
+## Commands 
+
+### Build Dotnet Core Web App
+
+```bash
+
+```
+
+### Build and Push Docker Image
+
+```bash
+
+```
+
 ## Scripts
 ### [Script to create dev vm](https://raw.githubusercontent.com/wrijugh/techtalks/master/scripts/01-azure-ubuntu-vm.sh)
 
