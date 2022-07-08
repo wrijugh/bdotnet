@@ -55,6 +55,11 @@ Create the Dockerfile, helm etc.
 az aks draft create
 ```
 
+Create Github workflow 
+```bash
+az aks draft generate-workflow 
+```
+
 
 
 ## Scripts
