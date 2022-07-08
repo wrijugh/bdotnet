@@ -1,5 +1,9 @@
-# Build 2022 Recap on July 8, 2022
+# Build 2022 Recap on July 8 2022 
+[BDotNet Bangalore]
 
+![](QR.png)
+
+## Scripts
 ### [Script to create dev vm](https://raw.githubusercontent.com/wrijugh/techtalks/master/scripts/01-azure-ubuntu-vm.sh)
 
 
