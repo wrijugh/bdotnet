@@ -44,6 +44,8 @@ $ sudo service docker start
 ## AKS
 
 ## Draft
+Documentation https://docs.microsoft.com/en-us/azure/aks/draft
+
 Install draft (preview)
 ```bash
 az extension add --name aks-preview
