@@ -3,6 +3,10 @@
 
 ![](QR.png)
 
+## Architecture 
+
+![](Arch.png)
+
 ## Scripts
 ### [Script to create dev vm](https://raw.githubusercontent.com/wrijugh/techtalks/master/scripts/01-azure-ubuntu-vm.sh)
 
