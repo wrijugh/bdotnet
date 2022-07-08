@@ -41,6 +41,20 @@ $ sudo service docker start
 
 ```
 
+## AKS
+
+## Draft
+Install draft (preview)
+```bash
+az extension add --name aks-preview
+```
+Create the Dockerfile, helm etc.
+```bash
+az aks draft create
+```
+
+
+
 ## Scripts
 ### [Script to create dev vm](https://raw.githubusercontent.com/wrijugh/techtalks/master/scripts/01-azure-ubuntu-vm.sh)
 
