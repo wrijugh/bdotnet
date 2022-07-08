@@ -43,6 +43,7 @@ $ sudo service docker start
 
 ## AKS
 
+
 ## Draft
 Documentation https://docs.microsoft.com/en-us/azure/aks/draft
 
@@ -60,6 +61,11 @@ Create Github workflow
 az aks draft generate-workflow 
 ```
 
+## Grafana
+
+```bash
+az grafana create --name sampleweb -g rg-demo-bdotnet -l eastus
+```
 
 
 ## Scripts
