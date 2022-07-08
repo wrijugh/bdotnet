@@ -12,12 +12,31 @@
 ### Build Dotnet Core Web App
 
 ```bash
+# Create a new asp.net core application
+$ dotnet new --name sampleweb --no-https
 
+# change the directory
+$ cd sampleweb
+
+# build that application
+$ dotnet build 
+
+# run the application
+$ dotnet run
 ```
 
 ### Build and Push Docker Image
 
 ```bash
+# add a Dockerfile either manually or by draft or by vscode 
+
+# check if the docker is running 
+$ docker ps 
+
+# if docker is not running then start the docker 
+$ sudo service docker start
+
+# when docker is running, stay in the folder where Dockerfile is there 
 
 ```
 
