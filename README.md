@@ -1,5 +1,5 @@
 # Build 2022 Recap 
-[BDotNet Bangalore on on July 8 2022]
+[BDotNet Bangalore on on 9 July 2022]
 Samples, scripts
 
 ![](QR.png)
